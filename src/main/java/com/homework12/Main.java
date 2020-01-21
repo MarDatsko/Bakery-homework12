@@ -1,4 +1,4 @@
-package com.homework12;
+package main.java.com.homework12;
 
 public class Main {
 
