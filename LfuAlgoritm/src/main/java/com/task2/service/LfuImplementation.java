@@ -7,7 +7,7 @@ import main.java.com.task2.model.News;
 
 import java.util.*;
 
-public class LfuAlgoritm {
+public class LfuImplementation {
     private Database database = new Database();
     private final LinkedHashMap<Integer, Element> cache = new LinkedHashMap<>();
     private LinkedList<Integer> frequencyList = new LinkedList<>();

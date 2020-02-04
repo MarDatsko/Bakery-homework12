@@ -4,7 +4,7 @@ import main.java.com.task2.model.Menu;
 
 public class Executor {
     Menu consoleMenu = new Menu();
-    LfuAlgoritm algorithms = new LfuAlgoritm();
+    LfuImplementation algorithms = new LfuImplementation();
 
     public void run(){
         consoleMenu.showMenu();
